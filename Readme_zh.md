@@ -158,6 +158,7 @@ Horizontal Scroll One Page Template Website/  # 水平滚动单页模板网站
 
 
 ## 📮 项目主要功能说明与截图
+<<<<<<< HEAD
 <!--文晓编写-->
 一、Animated Landing Page Website Template 
 这是一个动画登录页面网站模板，由6个页面组成，侧边栏可以选择要切换到页面。页面布局美观合理。
@@ -170,7 +171,6 @@ Horizontal Scroll One Page Template Website/  # 水平滚动单页模板网站
 ![项目界面截图](images/wx/pic0_4.png)
 第五、六个页面是引导用户试用
 
-<<<<<<< HEAD
 二、Horizontal Scroll One Page Template Website
 这是一个水平滚动单页网站网站，此网页由7个滚动页面构成，当鼠标下滑时可以向右滚动切换页面。整体界面切换比较流畅，页面切换衔接舒适。
 第一个页面点击手表时可使图片聚焦在页面中心
