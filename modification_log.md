@@ -35,12 +35,12 @@
 ![蔡昀甫](ai_usage_screenshots/2205308060332_2.png)
 
 参考资源
-git基本语法
+* git基本语法
 https://www.bilibili.com/video/BV1s3411g7PS/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=35bbaf0bd4df4722af9716be3a7d478c；
-如何合并分支
-https://www.bilibili.com/video/BV1d541147pR/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=35bbaf0bd4df4722af9716be3a7d478c
-MarkDown基本语法
-https://www.bilibili.com/video/BV1eJ4m157kC/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=35bbaf0bd4df4722af9716be3a7d478c
+* 如何合并分支
+https://www.bilibili.com/video/BV1d541147pR/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=35bbaf0bd4df4722af9716be3a7d478c；
+* MarkDown基本语法
+https://www.bilibili.com/video/BV1eJ4m157kC/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=35bbaf0bd4df4722af9716be3a7d478c；
 
 ## 韦荣华AI修改记录
 截图
