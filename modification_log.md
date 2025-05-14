@@ -46,3 +46,5 @@
 
 
 ## 周英AI修改记录
+![周英](ai_usage_screenshots/2205302020315_1.png)
+![周英](ai_usage_screenshots/2205302020315_2.png)
