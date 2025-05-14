@@ -6,6 +6,12 @@
 
 
 ## 李贵成AI修改记录
+![李贵成](ai_usage_screenshots/2205308060352_1.png) 
+![李贵成](ai_usage_screenshots/2205308060352_2.png) 
+![李贵成](ai_usage_screenshots/2205308060352_3.png) 
+![李贵成](ai_usage_screenshots2205308060352_4.png) 
+![李贵成](ai_usage_screenshots/2205308060352_5.png) 
+![李贵成](ai_usage_screenshots/2205308060352_6.png) 
 
 
 
