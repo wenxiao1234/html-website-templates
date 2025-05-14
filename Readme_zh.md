@@ -50,7 +50,6 @@ cd D:\github
 2.输入命令，复制地址，克隆到自己的仓库：
 git clone https://github.com/wenxiao1234/html-website-templates.git
 
-
 ### 安装依赖
 slides
 根据项目需求，使用合适的 IDE（如 Visual Studio Code 或 IntelliJ IDEA）打开项目并安装依赖项。
@@ -60,11 +59,10 @@ slides
 1.把克隆好的项目在Visual Studio Code中打开，可以清晰地查看文档结构和相应代码
 2.如需看具体网页效果，可直接双击index.html（此网页模板由slides生成，需借助此外网网站资源，国内访问需使用加速器）
 3.在浏览器中打开生成的文件，查看项目效果
-项目将运行在:
+项目将在浏览器中运行:
 `file:///D:/github/html-website-templates/Animated%20Landing%20Page%20Website%20Template/index.html`
 `file:///D:/github/html-website-templates/Horizontal%20Scroll%20One%20Page%20Template%20Website/index.html`
 `file:///D:/github/html-website-templates/One%20Page%20Portfolio%20Website%20Template/index.html`
-
 
 
 ## 📦 项目结构  
