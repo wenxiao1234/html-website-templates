@@ -10,7 +10,9 @@
 
 
 ## 蔡昀甫AI修改记录
-
+截图
+![蔡昀甫](ai_usage_screenshots/2205302020304_1.png)
+![蔡昀甫](ai_usage_screenshots/2205302020304_2.png)
 
 
 ## 文晓AI修改记录
