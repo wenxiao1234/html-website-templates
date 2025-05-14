@@ -2,6 +2,7 @@
 
 
 ## 覃美静AI修改记录
+截图
 ![覃美静](ai_usage_screenshots/2205302010340_1.png) 
 ![覃美静](ai_usage_screenshots/2205302010340_2.png)
 ![覃美静](ai_usage_screenshots/2205302010340_3.png)
@@ -14,6 +15,7 @@
 
 
 ## 李贵成AI修改记录
+截图
 ![李贵成](ai_usage_screenshots/2205308060352_1.png) 
 ![李贵成](ai_usage_screenshots/2205308060352_2.png) 
 ![李贵成](ai_usage_screenshots/2205308060352_3.png) 
@@ -52,4 +54,6 @@
 
 
 ## 周英AI修改记录
-
+截图
+![周英](ai_usage_screenshots/2205302020315_1.png)
+![周英](ai_usage_screenshots/2205302020315_2.png)
