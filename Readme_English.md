@@ -70,6 +70,7 @@ file:///D:/github/html-website-templates/One%20Page%20Portfolio%20Website%20Temp
 
 
 ##📦 Project Structure
+```
 <!--Written by Li Guicheng-->
 Animated Landing Page Website Template/  # Animated Landing Page Website Template
 ├── assets/               # Image resources
@@ -151,8 +152,8 @@ Horizontal Scroll One Page Template Website/  # Horizontal Scroll One Page Templ
 │       └── video-icon.svg           # White background play icon   
 ├── css/
 │   ├── slides.css        # Unifying the style, layout, and interactive effects of the web page. 
-
-
+```
+```
 <!--Written by Cai Yunfu-->
 
 Landing Page Website for App/
@@ -199,8 +200,8 @@ Landing Page Website for App/
 ├── _open-generator.url          # Link file to open the generator
 ├── ajax-email.php               # PHP file for handling AJAX requests
 ├── index.html                   # Main HTML file
-├── readme first.txt             # Project description file
-
+└── readme first.txt             # Project description file
+```
 
 ## 📮 Main Features and Screenshots of the Project
 <!--Written by Wen Xiao-->
